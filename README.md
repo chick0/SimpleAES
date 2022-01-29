@@ -3,7 +3,7 @@
 run AES Encrypt and Decrypt with [pycryptodome](https://pypi.org/project/pycryptodome/)
 
 
-## test
+## test.py
 
 ```
 enc_test=sudo dnf update
